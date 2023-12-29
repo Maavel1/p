@@ -1,0 +1,220 @@
+@media (min-width:1165px) {
+    .main {
+        padding-bottom: 280px !important;
+    }
+
+    .menu-btn {
+        display: none;
+    }
+    .logo_burger {
+        display: none;
+    }
+
+}
+
+
+@media (max-width:1164px) {
+
+    .container {
+        max-width: 1164px !important;
+    }
+    .info_price_rows {
+        flex-direction: column;
+        gap: 100px;
+    }
+
+    .rows_plus {
+        padding: 0px 15px 0px 15px;
+    }
+    
+    .rows_tariffs {
+        gap: 0 !important;
+    }
+
+    .menu-btn {
+        display: none;
+    }
+    .logo_burger {
+        display: none;
+    }
+    
+}
+
+@media (max-width:992px) {
+
+    .container {
+        max-width: 992px !important;
+    }
+
+    .nav {
+        height: 80px;
+    }
+
+    
+    .nav_inner {
+        display: none !important;
+    }
+
+    .title_main {
+        font-size: 65px;
+    }
+
+    .pre_title_main {
+        font-size: 40px !important;
+    }
+
+    .person {
+        display: none;
+    }
+
+    .swiper {
+        width: 450px !important;
+        height: 363px;
+        border-radius: 10px;
+        margin-top: 60px;
+    }
+
+    .title_portfolio_text {
+        font-size: 50px !important;
+    }
+
+    .tariffs_inner {
+        display: flex;
+        justify-content: center;
+    }
+
+    .rows_tariffs {
+        flex-direction: column;
+        width: 363px;
+    }
+
+    .menu-btn {
+        display: block;
+    }
+    .logo_burger {
+        
+        display: block;
+    }
+    .burger_menu {
+        padding: 0px 15px 0px 15px;
+    }
+
+    .logo {
+        padding-top: 15px;
+    }
+
+    ul {
+        padding-top: 150px;
+    }
+
+    .mobilu {
+        margin-top: 50px;
+    }
+
+    .title_price_info {
+        font-size: 50px !important;
+    }
+
+}
+
+@media (max-width:776px) {
+
+    .container {
+        max-width: 776px !important;
+    }
+    .decr_main {
+        font-size: 18px !important;
+    }
+
+    .bg_main {
+        height: -webkit-fill-available !important;
+    }
+    
+    .content_inner {
+        padding: 63px 15px 0px 15px !important;
+    }
+
+    .title_main {
+        font-size: 55px !important;
+    }
+    
+    .card_price_info {
+        min-height: 250px !important;
+    }
+
+    .swiper {
+        width: 350px !important;
+    }
+
+    .title_portfolio_text {
+        font-size: 40px !important;
+    }
+
+    .img_telegram_footer,.img_inst_footer {
+        width: 70% !important;
+    }
+
+    .title_price_info  {
+        font-size: 60px !important;
+    }
+    .title_price_info {
+        font-size: 40px !important;
+    }
+
+}
+
+@media (max-width:480px) {
+
+    .container {
+        max-width: 480px !important;
+    }
+    .link_main {
+        font-size: 13px !important;
+    }
+
+    .pre_link_main {
+        font-size: 13px !important;
+    }
+
+    .pre_title_main {
+        font-size: 30px !important;
+    }
+
+    .title_main {
+        font-size: 42px !important;
+    }
+    
+    .decr_main {
+        font-size: 13px !important;
+    }
+
+    .btn_main {
+        margin-top: 60px !important;
+    }
+
+    .card_price_info {
+        min-width: 290px !important;
+    }
+
+    .swiper-button-next {
+        right: -25px !important;
+    }
+
+
+    .swiper-button-prev {
+        left: -20px !important;
+    }
+
+    .title_price_info {
+        font-size: 35px !important;
+    }
+
+}
+
+@media (max-width:320px) {
+
+    .container {
+        max-width: 320px !important;
+    }
+  
+}
